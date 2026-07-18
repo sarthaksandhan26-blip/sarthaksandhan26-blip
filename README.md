@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML, Data Science, and Fronted Development projects<br><br>👯 I’m looking to collaborate on Open Source, AI/ML, and Python projects<br><br><br>🌱 I’m currently learning Data Science, Machine Learning, Python, HTML, CSS, JavaScript.<br><br>💬 Ask me about Python, AI/ML, Data Science, Fronted Development, and GitHub<br><br>⚡ Fun fact: I'm an Integrated B.Tech (Computer Science Engineering) student building real-world AI and Data Science projects.
+ I’m currently working on AI/ML, Data Science, and Fronted Development projects<br><br> I’m looking to collaborate on Open Source, AI/ML, and Python projects<br><br><br> I’m currently learning Data Science, Machine Learning, Python, HTML, CSS, JavaScript.<br><br> Ask me about Python, AI/ML, Data Science, Fronted Development, and GitHub<br><br> Fun fact: I'm an Integrated B.Tech (Computer Science Engineering) student building real-world AI and Data Science projects.
 
 
 ## 🌐 Socials:
